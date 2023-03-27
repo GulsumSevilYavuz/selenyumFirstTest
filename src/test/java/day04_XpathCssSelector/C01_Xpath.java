@@ -1,4 +1,3 @@
-
 package day04_XpathCssSelector;
 
 import org.openqa.selenium.By;
